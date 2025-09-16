@@ -48,9 +48,9 @@ DEFAULTS = {
 }
 
 sound_files = {
-    "break": "./sounds/alarm-clock-elapsed.oga",
-    "lunch": "./sounds/power-unplug.oga",
-    "walk": "./sounds/alarm-clock-elapsed.oga",
+    "break": "/usr/share/sounds/freedesktop/stereo/alarm-clock-elapsed.oga",
+    "lunch": "/usr/share/sounds/freedesktop/stereo/power-unplug.oga",
+    "walk": "/usr/share/sounds/freedesktop/stereo/alarm-clock-elapsed.oga",
 }
 
 def load_config():

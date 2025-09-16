@@ -1,8 +1,1 @@
-{
-  "work": 1500,
-  "short_break": 300,
-  "long_break": 600,
-  "lunch": 2700,
-  "walk_after_lunch": 300,
-  "pause_on_lock": true
-}
+{"work": 60, "short_break": 300, "long_break": 600, "lunch": 2700, "walk_after_lunch": 300, "pause_on_lock": true}
